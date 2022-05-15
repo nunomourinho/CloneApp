@@ -39,6 +39,7 @@ If you don’t want to do a full backup and restore, CloneApp backs up settings 
 
 ## Download 
 * https://www.builtbybel.com
+* https://www.builtbybel.com/ms-apps/cloneapp
 
 ## Other Resources
 
